@@ -1,0 +1,15 @@
+import turtle
+turtle.penup()
+turtle.speed(1000000)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(75)
+turtle.left(90)
+turtle.forward(75)
+turtle.left(90)
+turtle.forward(5)
+turtle.right(90)
+turtle.forward(20)
+turtle.left(90)
+turtle.write("The Game Name"
